@@ -1,5 +1,5 @@
 ### Oiii! Eu sou a Raiane Germano!
-📚 Graduanda em Sistemas de Informação
+📚 Graduanda em Análise e Desenvolvimento de Sistemas
 
 👩🏽‍💻 Técnica de Informática
 
