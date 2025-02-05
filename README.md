@@ -3,7 +3,7 @@
 
 👩🏽‍💻 Técnica de Informática
 
-☎️(85)9 8992-4538
+☎️ (85)9 8992-4538
 
 <div>
   <a ref="http://beacons.ai/raislva">
